@@ -10,3 +10,7 @@ Such a map will help everyone to be uptodate with what is happening in the IT/Co
 The information could be represented in multipel forms. one form is to use a mind map to show the hirearchy and the connections.
 
 you can open the file "MindMup.mup"  using https://www.mindmup.com. go to file , open/import, import from github. 
+why mindmup:
+1- easy to use and free
+2- map is in JSON format. so we can modify the map easily or switch the mind map software. 
+3- you can search the map using "Ctrl+F"
