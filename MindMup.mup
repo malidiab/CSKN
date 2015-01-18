@@ -1,0 +1,81 @@
+{
+  "title": "Computer Science Knowledge\nNetwork",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Security & Privacy",
+      "id": 18
+    },
+    "2": {
+      "title": "World  Wide Web",
+      "id": 20
+    },
+    "3": {
+      "title": "Artificial Intelligence",
+      "id": 22
+    },
+    "4": {
+      "title": "Data Mining ",
+      "id": 24
+    },
+    "5": {
+      "title": "Human-Computer Interaction",
+      "id": 27
+    },
+    "6": {
+      "title": "Software Engineering ",
+      "id": 28
+    },
+    "7": {
+      "title": "Operating Systems ",
+      "id": 30
+    },
+    "8": {
+      "title": "Natural Language and Speech",
+      "id": 32
+    },
+    "-1": {
+      "title": "Simulation",
+      "id": 19
+    },
+    "-2": {
+      "title": "Algorithms and Theory",
+      "id": 21
+    },
+    "-3": {
+      "title": "Databases ",
+      "id": 23,
+      "attr": {
+        "position": [
+          243.5,
+          -76,
+          1
+        ],
+        "style": {}
+      }
+    },
+    "-4": {
+      "title": "Graphics",
+      "id": 25,
+      "attr": {}
+    },
+    "-14": {
+      "title": "Hardware and Architecture",
+      "id": 26
+    },
+    "-15": {
+      "title": "Scientific Computing ",
+      "id": 29
+    },
+    "-16": {
+      "title": "Network and Communications",
+      "id": 31
+    },
+    "-17": {
+      "title": "Machine Learning",
+      "id": 33
+    }
+  },
+  "links": []
+}
