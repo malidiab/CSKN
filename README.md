@@ -14,3 +14,4 @@ why mindmup:
 1- easy to use and free
 2- map is in JSON format. so we can modify the map easily or switch the mind map software. 
 3- you can search the map using "Ctrl+F"
+for full features of this cool mind mapping tool :  http://discover.mindmup.com/geeks
