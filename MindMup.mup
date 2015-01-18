@@ -9,11 +9,24 @@
     },
     "2": {
       "title": "World  Wide Web",
-      "id": 20
-    },
-    "3": {
-      "title": "Artificial Intelligence",
-      "id": 22
+      "id": 20,
+      "ideas": {
+        "1": {
+          "title": "Protocols",
+          "id": 35,
+          "ideas": {
+            "1": {
+              "title": "HTTP",
+              "id": 36,
+              "ideas": {}
+            },
+            "2": {
+              "title": "FTP",
+              "id": 38
+            }
+          }
+        }
+      }
     },
     "4": {
       "title": "Data Mining ",
@@ -25,15 +38,34 @@
     },
     "6": {
       "title": "Software Engineering ",
-      "id": 28
+      "id": 28,
+      "ideas": {
+        "1": {
+          "title": "Programming Languages ",
+          "id": 41
+        },
+        "2": {
+          "title": "Design Patterns",
+          "id": 42
+        },
+        "3": {
+          "title": "Programming Concepts",
+          "id": 44,
+          "attr": {}
+        }
+      }
     },
     "7": {
       "title": "Operating Systems ",
-      "id": 30
-    },
-    "8": {
-      "title": "Natural Language and Speech",
-      "id": 32
+      "id": 30,
+      "attr": {
+        "position": [
+          242,
+          220,
+          2
+        ],
+        "style": {}
+      }
     },
     "-1": {
       "title": "Simulation",
@@ -58,7 +90,9 @@
     "-4": {
       "title": "Graphics",
       "id": 25,
-      "attr": {}
+      "attr": {
+        "style": {}
+      }
     },
     "-14": {
       "title": "Hardware and Architecture",
@@ -68,13 +102,35 @@
       "title": "Scientific Computing ",
       "id": 29
     },
-    "-16": {
-      "title": "Network and Communications",
-      "id": 31
-    },
     "-17": {
       "title": "Machine Learning",
       "id": 33
+    },
+    "3.5": {
+      "title": "Network and Communications",
+      "id": 31,
+      "attr": {
+        "style": {}
+      }
+    },
+    "3.75": {
+      "title": "Artificial Intelligence",
+      "id": 22,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-27": {
+      "title": "Natural Language and Speech",
+      "id": 32,
+      "attr": {
+        "position": [
+          62,
+          254,
+          3
+        ],
+        "style": {}
+      }
     }
   },
   "links": []
