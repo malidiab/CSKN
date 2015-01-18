@@ -3,254 +3,10 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "2": {
-      "title": "World  Wide Web",
-      "id": 20,
-      "ideas": {
-        "1": {
-          "title": "Protocols",
-          "id": 35,
-          "ideas": {
-            "1": {
-              "title": "HTTP",
-              "id": 36,
-              "ideas": {}
-            },
-            "2": {
-              "title": "FTP",
-              "id": 38
-            }
-          }
-        },
-        "3": {
-          "title": "Resource",
-          "id": 63,
-          "ideas": {
-            "2": {
-              "title": "Script",
-              "id": 49,
-              "attr": {
-                "style": {}
-              },
-              "ideas": {
-                "1": {
-                  "title": "Javascript",
-                  "id": 81,
-                  "ideas": {
-                    "4": {
-                      "title": "Libraries",
-                      "id": 101,
-                      "ideas": {
-                        "1": {
-                          "title": "AJAX",
-                          "id": 96,
-                          "attr": {
-                            "style": {}
-                          }
-                        },
-                        "2": {
-                          "title": "AngulerJS",
-                          "id": 94,
-                          "attr": {
-                            "style": {}
-                          }
-                        },
-                        "3": {
-                          "title": "NodeJS",
-                          "id": 95,
-                          "attr": {
-                            "style": {}
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            "3": {
-              "title": "Style",
-              "id": 50,
-              "attr": {
-                "style": {}
-              },
-              "ideas": {
-                "1": {
-                  "title": "CSS",
-                  "id": 82
-                }
-              }
-            },
-            "4": {
-              "title": "HTML",
-              "id": 48,
-              "attr": {
-                "style": {}
-              },
-              "ideas": {
-                "1": {
-                  "title": "Generators",
-                  "id": 83,
-                  "ideas": {
-                    "1": {
-                      "title": "PHP",
-                      "id": 85
-                    },
-                    "2": {
-                      "title": "ASP.NET",
-                      "id": 86
-                    },
-                    "3": {
-                      "title": "Python",
-                      "id": 87,
-                      "attr": {
-                        "style": {}
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "attr": {
-            "position": [
-              245.8691596984861,
-              -221.83073043823197,
-              2
-            ],
-            "style": {}
-          }
-        },
-        "5": {
-          "title": "Development Phases",
-          "id": 98,
-          "attr": {
-            "style": {}
-          },
-          "ideas": {
-            "2": {
-              "title": "Backend",
-              "id": 100,
-              "attr": {
-                "style": {}
-              }
-            },
-            "12": {
-              "title": "Frontend",
-              "id": 99,
-              "ideas": {},
-              "attr": {
-                "style": {}
-              }
-            }
-          }
-        },
-        "15": {
-          "title": "Architecture",
-          "id": 67,
-          "ideas": {
-            "1": {
-              "title": "SOA",
-              "id": 70
-            },
-            "2": {
-              "title": "WebAPI",
-              "id": 74
-            }
-          },
-          "attr": {
-            "position": [
-              192.22497940063454,
-              127.42265701293945,
-              1
-            ],
-            "style": {}
-          }
-        },
-        "16": {
-          "title": "Authentication ",
-          "id": 52,
-          "ideas": {
-            "6": {
-              "title": "Types",
-              "id": 64,
-              "ideas": {
-                "1": {
-                  "title": "Windows",
-                  "id": 57,
-                  "attr": {
-                    "storyboard-scenes": [
-                      {
-                        "storyboards": {
-                          "Storyboard 1": 1
-                        }
-                      }
-                    ],
-                    "style": {}
-                  }
-                },
-                "2": {
-                  "title": "OpenID",
-                  "id": 60,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "3": {
-                  "title": "Forms",
-                  "id": 59,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "4": {
-                  "title": "Digest",
-                  "id": 56,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "5": {
-                  "title": "Basic",
-                  "id": 55,
-                  "attr": {
-                    "style": {}
-                  }
-                }
-              }
-            }
-          },
-          "attr": {
-            "style": {}
-          }
-        }
-      },
-      "attr": {
-        "position": [
-          380.0410743713376,
-          -164.24599075317417,
-          19
-        ],
-        "style": {}
-      }
-    },
-    "-1": {
-      "title": "Simulation",
-      "id": 19
-    },
     "-2": {
       "title": "Algorithms and Theory",
-      "id": 21
-    },
-    "-3": {
-      "title": "Databases ",
-      "id": 23,
+      "id": 21,
       "attr": {
-        "position": [
-          243.5,
-          -76,
-          1
-        ],
         "style": {}
       }
     },
@@ -366,9 +122,9 @@
       "attr": {
         "style": {},
         "position": [
-          9.002160644531159,
-          366.9981346130364,
-          22
+          247.68424313516698,
+          275.2467200000001,
+          31
         ]
       }
     },
@@ -380,62 +136,6 @@
           37.314366912841706,
           466.8359146118157,
           24
-        ],
-        "style": {}
-      }
-    },
-    "4.6875": {
-      "title": "Software Engineering ",
-      "id": 28,
-      "ideas": {
-        "1": {
-          "title": "Programming Languages ",
-          "id": 41,
-          "ideas": {
-            "1": {
-              "title": "C++",
-              "id": 91
-            },
-            "2": {
-              "title": "DOTNET ( C#, VB.NET )",
-              "id": 92
-            },
-            "3": {
-              "title": "Python",
-              "id": 93
-            }
-          }
-        },
-        "2": {
-          "title": "Design Patterns",
-          "id": 42,
-          "attr": {
-            "style": {},
-            "position": [
-              305.4738044738767,
-              56.624412536620866,
-              2
-            ]
-          }
-        },
-        "3": {
-          "title": "Programming Concepts",
-          "id": 44,
-          "attr": {
-            "style": {},
-            "position": [
-              165.40288925170898,
-              157.95230865478493,
-              1
-            ]
-          }
-        }
-      },
-      "attr": {
-        "position": [
-          359.17944869995085,
-          93.53594207763626,
-          25
         ],
         "style": {}
       }
@@ -470,6 +170,346 @@
           "id": 66
         }
       }
+    },
+    "4.6875": {
+      "title": "Software Engineering ",
+      "id": 28,
+      "ideas": {
+        "1": {
+          "title": "Programming Languages ",
+          "id": 41,
+          "ideas": {
+            "1": {
+              "title": "C++",
+              "id": 91
+            },
+            "2": {
+              "title": "DOTNET ( C#, VB.NET )",
+              "id": 92
+            },
+            "4": {
+              "title": "JAVA",
+              "id": 104
+            },
+            "5": {
+              "title": "Scripting",
+              "id": 105,
+              "ideas": {
+                "1": {
+                  "title": "Python",
+                  "id": 93,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "vb",
+                  "id": 108
+                },
+                "3": {
+                  "title": "Powershell",
+                  "id": 111
+                }
+              },
+              "attr": {
+                "position": [
+                  178.1612381824507,
+                  74.94599999999991,
+                  1
+                ],
+                "style": {}
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Design Patterns",
+          "id": 42,
+          "attr": {
+            "style": {},
+            "position": [
+              248.34299818245063,
+              70.90639552368134,
+              2
+            ]
+          }
+        },
+        "3": {
+          "title": "Programming Concepts",
+          "id": 44,
+          "attr": {
+            "style": {},
+            "position": [
+              165.40288925170898,
+              157.95230865478493,
+              1
+            ]
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          514.4542049527163,
+          -159.2017807960516,
+          29
+        ],
+        "style": {}
+      }
+    },
+    "4.21875": {
+      "title": "World  Wide Web",
+      "id": 20,
+      "ideas": {
+        "1": {
+          "title": "Protocols",
+          "id": 35,
+          "ideas": {
+            "1": {
+              "title": "HTTP",
+              "id": 36,
+              "ideas": {},
+              "attr": {
+                "position": [
+                  90.4375,
+                  -108.54426956176803,
+                  1
+                ],
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "FTP",
+              "id": 38
+            }
+          }
+        },
+        "3": {
+          "title": "Resource",
+          "id": 63,
+          "ideas": {
+            "2": {
+              "title": "Script",
+              "id": 49,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Javascript",
+                  "id": 81,
+                  "ideas": {
+                    "4": {
+                      "title": "Libraries",
+                      "id": 101,
+                      "ideas": {
+                        "1": {
+                          "title": "AJAX",
+                          "id": 96,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "2": {
+                          "title": "AngulerJS",
+                          "id": 94,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "3": {
+                          "title": "NodeJS",
+                          "id": 95,
+                          "attr": {
+                            "style": {}
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Style",
+              "id": 50,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "CSS",
+                  "id": 82
+                }
+              }
+            },
+            "4": {
+              "title": "HTML",
+              "id": 48,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Generators",
+                  "id": 83,
+                  "ideas": {
+                    "1": {
+                      "title": "PHP",
+                      "id": 85
+                    },
+                    "2": {
+                      "title": "ASP.NET",
+                      "id": 86
+                    },
+                    "3": {
+                      "title": "Python",
+                      "id": 87,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              245.8691596984861,
+              -221.83073043823197,
+              2
+            ],
+            "style": {}
+          }
+        },
+        "15": {
+          "title": "Architecture",
+          "id": 67,
+          "ideas": {
+            "1": {
+              "title": "SOA",
+              "id": 70,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "Service Oriented Architecture"
+                },
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Web Services",
+                  "id": 114
+                }
+              }
+            },
+            "0.5": {
+              "title": "WebAPI",
+              "id": 74,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              192.22497940063454,
+              127.42265701293945,
+              1
+            ],
+            "style": {}
+          }
+        },
+        "16": {
+          "title": "Authentication ",
+          "id": 52,
+          "ideas": {
+            "6": {
+              "title": "Types",
+              "id": 64,
+              "ideas": {
+                "1": {
+                  "title": "Windows",
+                  "id": 57,
+                  "attr": {
+                    "storyboard-scenes": [
+                      {
+                        "storyboards": {
+                          "Storyboard 1": 1
+                        }
+                      }
+                    ],
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "OpenID",
+                  "id": 60,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Forms",
+                  "id": 59,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "Digest",
+                  "id": 56,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "5": {
+                  "title": "Basic",
+                  "id": 55,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          386,
+          -104,
+          32
+        ],
+        "style": {}
+      }
+    },
+    "-0.75": {
+      "title": "Databases ",
+      "id": 23,
+      "attr": {
+        "style": {},
+        "position": [
+          490.62499999999983,
+          -321.68750000000006,
+          33
+        ]
+      }
+    },
+    "-0.625": {
+      "title": "Simulation",
+      "id": 19,
+      "attr": {
+        "position": [
+          248.8749999999999,
+          -395.12500000000006,
+          34
+        ],
+        "style": {}
+      }
     }
   },
   "links": [
@@ -481,6 +521,16 @@
           "color": "#FF0000",
           "lineStyle": "dashed",
           "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 74,
+      "ideaIdTo": 36,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
         }
       }
     }
