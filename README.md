@@ -8,3 +8,5 @@ The aim of this project is to create a regularly updated map about every compute
 Such a map will help everyone to be uptodate with what is happening in the IT/Computer Science field. Also, it will help shaping the learning path for anyone who wants to learn a new field or technology. For example, if you are a "Security" student. then you can clearly see what security models, algorithms, technologies exist. you can also know exactly what to learn and what to skip. 
 
 The information could be represented in multipel forms. one form is to use a mind map to show the hirearchy and the connections.
+
+you can open the file "MindMup.mup"  using https://www.mindmup.com. go to file , open/import, import from github. 
