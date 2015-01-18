@@ -1,7 +1,7 @@
 # CSKN
 Computer Science Knowledge Network
 
-How are computer science fields/tecnologies organized? What are research fields/technologies are there ? How are they interconnected ?
+How are computer science fields/technologies organized? What are research fields/technologies are there ? How are they interconnected ?
 
 The aim of this project is to create a regularly updated map about every computer science field, subfield , new technolgy, programming language, framework, concept, pattern, protocol, technique, acrchitecture style. The target is NOT to build a knoweldge base, it is to build the knowledge network, that shows the hirarchy of things and how they are related, in other words, it will help anyone to get the big picture of a field or a topic.
 
