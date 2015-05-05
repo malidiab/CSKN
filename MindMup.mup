@@ -87,7 +87,8 @@
           501.10858535766533,
           20
         ],
-        "style": {}
+        "style": {},
+        "collapsed": true
       },
       "ideas": {
         "1": {
@@ -149,7 +150,8 @@
           384.38849487304685,
           -204.59835433960006,
           26
-        ]
+        ],
+        "collapsed": true
       },
       "ideas": {
         "1": {
@@ -179,7 +181,8 @@
           -513.0523910522464,
           27
         ],
-        "style": {}
+        "style": {},
+        "collapsed": true
       },
       "ideas": {
         "2": {
@@ -206,7 +209,58 @@
             },
             "4": {
               "title": "JAVA",
-              "id": 104
+              "id": 104,
+              "ideas": {
+                "3": {
+                  "title": "JVM",
+                  "id": 154,
+                  "ideas": {
+                    "1": {
+                      "title": "Delvik",
+                      "id": 155,
+                      "ideas": {
+                        "1": {
+                          "title": "Android",
+                          "id": 151,
+                          "ideas": {}
+                        },
+                        "2": {
+                          "title": "JIT ",
+                          "id": 160,
+                          "attr": {
+                            "attachment": {
+                              "contentType": "text/html",
+                              "content": "Delvik use JIT compiler"
+                            },
+                            "style": {}
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "JME",
+                      "id": 156
+                    },
+                    "3": {
+                      "title": "ART",
+                      "id": 157,
+                      "ideas": {
+                        "1": {
+                          "title": "AOT ",
+                          "id": 159
+                        }
+                      },
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "The new JAVA Virtual Machine by android to replace Delvik, it compiles the code when you install the application. instead of compiling the code when you run it in runtime."
+                        },
+                        "style": {}
+                      }
+                    }
+                  }
+                }
+              }
             },
             "5": {
               "title": "Scripting",
@@ -239,18 +293,6 @@
             }
           }
         },
-        "2": {
-          "title": "Design Patterns",
-          "id": 42,
-          "attr": {
-            "style": {},
-            "position": [
-              248.34299818245063,
-              70.90639552368134,
-              2
-            ]
-          }
-        },
         "3": {
           "title": "Programming Concepts",
           "id": 44,
@@ -262,13 +304,25 @@
               1
             ]
           }
+        },
+        "13": {
+          "title": "Design Patterns",
+          "id": 42,
+          "attr": {
+            "style": {},
+            "position": [
+              103,
+              288.00000000000006,
+              2
+            ]
+          }
         }
       },
       "attr": {
         "position": [
-          514.4542049527163,
-          -159.2017807960516,
-          29
+          392,
+          83.99999999999994,
+          35
         ],
         "style": {}
       }
@@ -501,7 +555,8 @@
           -104,
           32
         ],
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "-0.75": {
@@ -513,11 +568,12 @@
           490.62499999999983,
           -321.68750000000006,
           33
-        ]
+        ],
+        "collapsed": true
       },
       "ideas": {
         "1": {
-          "title": "RDBMS ",
+          "title": "RDBMSÂ ",
           "id": 115,
           "ideas": {}
         },
@@ -701,6 +757,40 @@
           248.8749999999999,
           -395.12500000000006,
           34
+        ],
+        "style": {}
+      }
+    },
+    "6.75": {
+      "title": "Logging",
+      "id": 161,
+      "ideas": {
+        "3": {
+          "title": "Structured Logging",
+          "id": 164,
+          "ideas": {
+            "1": {
+              "title": "www.graylog.org",
+              "id": 163,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "www.splunk.com",
+              "id": 162,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          174,
+          617,
+          36
         ],
         "style": {}
       }
