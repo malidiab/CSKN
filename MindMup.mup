@@ -87,8 +87,7 @@
           501.10858535766533,
           20
         ],
-        "style": {},
-        "collapsed": true
+        "style": {}
       },
       "ideas": {
         "1": {
@@ -150,8 +149,7 @@
           384.38849487304685,
           -204.59835433960006,
           26
-        ],
-        "collapsed": true
+        ]
       },
       "ideas": {
         "1": {
@@ -181,13 +179,69 @@
           -513.0523910522464,
           27
         ],
-        "style": {},
-        "collapsed": true
+        "style": {}
       },
       "ideas": {
         "2": {
           "title": "Encryption",
           "id": 66
+        },
+        "3": {
+          "title": "Authentication ",
+          "id": 52,
+          "ideas": {
+            "6": {
+              "title": "Types",
+              "id": 64,
+              "ideas": {
+                "1": {
+                  "title": "Windows",
+                  "id": 57,
+                  "attr": {
+                    "storyboard-scenes": [
+                      {
+                        "storyboards": {
+                          "Storyboard 1": 1
+                        }
+                      }
+                    ],
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "OpenID",
+                  "id": 60,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Forms",
+                  "id": 59,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "Digest",
+                  "id": 56,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "5": {
+                  "title": "Basic",
+                  "id": 55,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
         }
       }
     },
@@ -490,63 +544,6 @@
             ],
             "style": {}
           }
-        },
-        "16": {
-          "title": "Authentication ",
-          "id": 52,
-          "ideas": {
-            "6": {
-              "title": "Types",
-              "id": 64,
-              "ideas": {
-                "1": {
-                  "title": "Windows",
-                  "id": 57,
-                  "attr": {
-                    "storyboard-scenes": [
-                      {
-                        "storyboards": {
-                          "Storyboard 1": 1
-                        }
-                      }
-                    ],
-                    "style": {}
-                  }
-                },
-                "2": {
-                  "title": "OpenID",
-                  "id": 60,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "3": {
-                  "title": "Forms",
-                  "id": 59,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "4": {
-                  "title": "Digest",
-                  "id": 56,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "5": {
-                  "title": "Basic",
-                  "id": 55,
-                  "attr": {
-                    "style": {}
-                  }
-                }
-              }
-            }
-          },
-          "attr": {
-            "style": {}
-          }
         }
       },
       "attr": {
@@ -555,8 +552,7 @@
           -104,
           32
         ],
-        "style": {},
-        "collapsed": true
+        "style": {}
       }
     },
     "-0.75": {
@@ -568,8 +564,7 @@
           490.62499999999983,
           -321.68750000000006,
           33
-        ],
-        "collapsed": true
+        ]
       },
       "ideas": {
         "1": {
